@@ -75,6 +75,7 @@ source install/setup.bash
 
 # Launch the simulation (example)
 ros2 launch twin_description display.launch.py
+```
 🎯 Applications
 Industrial Automation
 Smart Manufacturing
