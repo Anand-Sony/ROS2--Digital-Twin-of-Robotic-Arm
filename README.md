@@ -91,6 +91,6 @@ Web dashboard for monitoring and control
 Anand Soni
 Mechanical Engineering Student, MNIT Jaipur
 
-⭐ Support
+###⭐ Support
 
-If you found this project useful, consider giving it a ⭐ on GitHub!
+###If you found this project useful, consider giving it a ⭐ on GitHub!
