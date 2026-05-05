@@ -32,7 +32,7 @@ ROS---Digital-Twin-of-Robotic-Arm/
 - ROS2 (Robot Operating System 2)  
 - Python  
 - URDF / Xacro  
-- CMake  
+- Arduino IDE
 - ros2_control  
 
 ---
@@ -90,7 +90,6 @@ Web dashboard for monitoring and control
 
 Anand Soni
 Mechanical Engineering Student, MNIT Jaipur
-📧 anandsoni0403@gmail.com
 
 ⭐ Support
 
