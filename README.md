@@ -6,6 +6,10 @@ The system enables **real-time visualization, joint control, and simulation**, d
 
 ---
 
+## 🎥 Demo Video  
+
+[Click here to watch the demo](https://github.com/Anand-Sony/ROS2--Digital-Twin-of-Robotic-Arm/raw/main/Demonstration.mp4)
+
 ## 🚀 Key Features  
 - 🔧 Digital Twin development using ROS2  
 - 🦾 Robot modeling using URDF/Xacro  
