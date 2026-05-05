@@ -1,9 +1,5 @@
 # 🤖 ROS2 Digital Twin of Robotic Arm
 
-## 📌 Overview  
-This project focuses on developing a **Digital Twin of a Robotic Arm using ROS2**, integrating virtual simulation with real-world robotic system concepts.  
-The system enables **real-time visualization, joint control, and simulation**, demonstrating core principles of **robotics, automation, and smart manufacturing**.
-
 ---
 
 ## 🎥 Demo Video  
@@ -11,6 +7,10 @@ The system enables **real-time visualization, joint control, and simulation**, d
 [Click here to watch the demo](https://github.com/Anand-Sony/ROS2--Digital-Twin-of-Robotic-Arm/raw/main/Demonstration.mp4)
 
 [Click here to watch the demo with real-time data](https://github.com/Anand-Sony/ROS2--Digital-Twin-of-Robotic-Arm/raw/main/Demo%20with%20real-time%20data.mp4)
+
+## 📌 Overview  
+This project focuses on developing a **Digital Twin of a Robotic Arm using ROS2**, integrating virtual simulation with real-world robotic system concepts.  
+The system enables **real-time visualization, joint control, and simulation**, demonstrating core principles of **robotics, automation, and smart manufacturing**.
 
 ## 🚀 Key Features  
 - 🔧 Digital Twin development using ROS2  
