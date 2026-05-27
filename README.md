@@ -81,6 +81,9 @@ source install/setup.bash
 
 # Launch the simulation (example)
 ros2 launch twin_description display.launch.py
+
+# Then open new terminal
+ros2 launch twin_firmware firmware.launch.py
 ```
 🎯 Applications
 Industrial Automation
